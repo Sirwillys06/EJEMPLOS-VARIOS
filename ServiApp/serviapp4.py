@@ -169,10 +169,3 @@ if opcion == 5:
 
     # print ("{:3f}". format (gatotal)) OTRA FORMA POR LO DE LOS PUNTOS
     
-
-
-    
-    
-    
-
-    
