@@ -269,21 +269,4 @@ def inicio_sesion():
             else:
                 print("error")
 inicio_sesion()            
-              
-
-
-
-
-                
-            
-                    
-    
-            
-            
-            
-        
-         
-                
-              
-
     
